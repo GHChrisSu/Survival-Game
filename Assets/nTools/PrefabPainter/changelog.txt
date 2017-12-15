@@ -1,0 +1,22 @@
+Version 1.3
+* Fixed bug causes build issues (thanks to Dakota)
+* Improved along brush stroke paint mode
+
+Version 1.2
+ * Fixed problem with double sided meshes
+ * Fixed typo in the window title 
+ * Fixed terrain raycast bug
+ * Fixed user settings file overwrite bug after new version download
+ 
+ * Added: Presets icons context menu
+ * Added: 'F' - Frame camera on brush 
+
+
+Version 1.1
+ * Fixed bug - new scene root objects enumeration in unity 5.4
+ * Fixed GUIStyle modification bug
+
+
+Version 1.0
+ * Initial release
+
